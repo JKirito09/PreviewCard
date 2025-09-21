@@ -1,0 +1,7 @@
+.footer {
+  padding: 15px; /* 👈 increased padding */
+  background: #ebecec;
+  text-align: center;
+  font-size: 0.9rem;
+  color: #374151; /* softer gray for text */
+}

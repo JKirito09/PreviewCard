@@ -1,0 +1,13 @@
+.navbar {
+  padding: 15px 20px;
+  background: linear-gradient(135deg, #4f46e5, #3b82f6);
+  color: #fff;
+  display: flex;
+  align-items: center;
+}
+
+.navbar__title {
+  margin: 0;
+  font-size: 1.25rem;
+  font-weight: 600;
+}
